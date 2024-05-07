@@ -1,4 +1,4 @@
-🎁01 Variables, comments & data types 
+🎁01 Variables, data types & comments  
 🎁02 Data type detection & conversion
 🎁03 Functions, operators and scope
 🎁04 Conditional
