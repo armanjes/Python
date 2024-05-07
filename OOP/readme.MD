@@ -1,0 +1,11 @@
+🎁OOPs 4 pillar
+        🚀 abstraction
+        🚀 polymorphism
+        🚀 inheritance
+        🚀 encapsulation
+
+🎁01 class & object 
+🎁02 class, object & method 
+🎁03 constructor method 
+🎁04 method overloading
+🎁05 method overriding
