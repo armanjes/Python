@@ -7,5 +7,6 @@
 🎁01 class & object 
 🎁02 class, object & method 
 🎁03 constructor method 
-🎁04 method overloading
-🎁05 method overriding
+🎁04 Inheritance
+🎁05 method overloading
+🎁06 method overriding
