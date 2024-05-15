@@ -7,8 +7,25 @@
 
 from abc import ABC, abstractmethod
 
-class Vehical(ABC):
+class Vehicle(ABC):
+    # function declaration
     @abstractmethod
-    def go(self):
+    def drive(self):
         pass
 
+class Car(Vehicle):
+    # function definition
+    def drive(self):
+        return "you drive this car."
+
+class Motorcycle(Vehicle):
+    # function definition
+    def drive(self):
+        return "you drive this motorcycle."
+    
+# usage
+car = Car()
+print(car.drive())  # you drive this car.
+
+motorcycle = Motorcycle()
+print(motorcycle.drive())   # you drive this motorcycle.
