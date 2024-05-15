@@ -23,3 +23,5 @@ dog.sound()     # Output: Bark
 
 cat = Cat()
 cat.sound()     # Output: Meow
+
+# 🚀 we must override the methods of superclass neither It will through an error
