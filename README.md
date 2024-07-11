@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952sj7q4fmb2u62dsds8jtqm50z27v0ub61xbotks8j&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="logo" width=498 height=250 />
+<img src=[https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952sj7q4fmb2u62dsds8jtqm50z27v0ub61xbotks8j&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://testmatick.com/wp-content/uploads/2021/03/Python-Logo.jpg) alt="logo" width=498 height=250 />
 
 <h1>🚀 Python basics 🚀 OOP concept 🚀 Testing etc...</h1>
 <p>✅ This repository contains a collection of Python programs demonstrating fundamental concepts and object-oriented programming (OOP) techniques. The code examples cover essential topics such as variables, data types, control structures, functions, and classes. Each program is designed to be clear and easy to understand, serving as a learning resource for Python basics and OOP principles.</p>
